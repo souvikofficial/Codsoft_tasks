@@ -4,18 +4,15 @@
     box-sizing:border-box;
     transition: all 0.3s ease;
 }
-
 html,body{
     width:100%;
     height:100%;
     font-family : montserret;
 }
-
 #main{
     width:100%;
     height:100%;
 }
-
 div #nav{
     height:11vh;
     width:100%;
@@ -24,7 +21,6 @@ div #nav{
     align-items :center;
     justify-content: space-between;
 }
-
 #webname{
    
   font-family: "Roboto Slab", serif;
@@ -56,14 +52,10 @@ div #nav{
     float:right;
 
 }
-
-
 a {
   text-decoration:none;
   color:white;
 }
-
-
 #icon ul {
     list-style-type: none;
     display: flex;
@@ -229,8 +221,6 @@ input:-webkit-autofill:active {
     align-items: center;
     display:flex;
 
-    
-  
 }
 
   #page1 {
@@ -305,8 +295,6 @@ input:-webkit-autofill:active {
     filter:brightness(90%);
     text-align: center;
     padding: 5%;
-    
-
 
   }
   .cards_pic4{
@@ -321,9 +309,6 @@ input:-webkit-autofill:active {
     filter:brightness(90%);
     text-align: center;
     padding: 5%;
-   
-
-
 
   }
   .direct {
@@ -334,7 +319,6 @@ input:-webkit-autofill:active {
     cursor: pointer;
     width: 150px;
     height: 50px;
-
     background: white;
     border-radius: 30px;
     border: 2px solid white;
@@ -343,11 +327,8 @@ input:-webkit-autofill:active {
     font-size: 14px;
     font-weight: 600;
     color:black;
-
     text-shadow: 0 1px #fff;
   }
-  
-  
   .direct:hover{
   transform:scale(1.1);
   }  
@@ -446,9 +427,6 @@ input:-webkit-autofill:active {
       background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
     }
   }
-
-
-  
   .card {
     max-width: 300px;
     min-height: 200px;
@@ -460,7 +438,6 @@ input:-webkit-autofill:active {
     max-width: 500px;
     height: 300px;
     padding: 35px;
-  
     border: 1px solid rgba(255, 255, 255, .25);
     border-radius: 20px;
     background-color: rgba(255, 255, 255, 0.45);
@@ -478,7 +455,6 @@ input:-webkit-autofill:active {
     width:100%;
     height:100vh;
     display: flex;
-    margin-top: 5%;
 }
 
 #opinion{
